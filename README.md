@@ -10,3 +10,6 @@ also here is a check list
 - [x] Find a team
 - [ ] make some edits
 - [ ] finish the assignment
+
+# This edit was made by Evan Palmisano
+- [x] have some fun!
