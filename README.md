@@ -12,4 +12,4 @@ also here is a check list
 - [ ] finish the assignment
 
 # This edit was made by Evan Palmisano
-- [x] have some fun!
+- [x] have some fun
